@@ -29,4 +29,4 @@ Una vez termines el curso podrás seguir con los mejores cursos de análisis de 
 9. Estadística descriptiva con datos cualitativos agrupados
 10. Introducción a la regresión lineal
 11. Introducción a distribuciones de probabilidad
-**readme pal re-afirmación de que mi copia ya esta enlazada en el master 
+**readme pal re-afirmación de que mi copia ya esta enlazada en el master. 
