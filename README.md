@@ -1,3 +1,8 @@
+---
+output:
+  pdf_document: default
+  html_document: default
+---
 # [Curso de introducción a la estadística descriptiva con R Studio y Python](https://www.udemy.com/estadistica-descriptiva/?couponCode=FROM_BOKDOWN_RSTUDIO)
 *Con Juan Gabriel Gomila y María Santos*
 
@@ -24,4 +29,4 @@ Una vez termines el curso podrás seguir con los mejores cursos de análisis de 
 9. Estadística descriptiva con datos cualitativos agrupados
 10. Introducción a la regresión lineal
 11. Introducción a distribuciones de probabilidad
-**readme pal
+**readme pal re-afirmación de que mi copia ya esta enlazada en el master 
